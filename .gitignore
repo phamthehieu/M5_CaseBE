@@ -1,4 +1,4 @@
 package.json
 tsconfig.json
-tsconfig.build.json
+../../deyloyts/tsconfig.build.json
 package-lock.json
